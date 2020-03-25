@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: [Vassili Kurman personal site]
 description: [This is my personal portfolio website]
+show_downloads: false
+is_project_page: false
+is_user_page: true
+owner_url: https://github.com/VassiliKurman
